@@ -1,0 +1,23 @@
+{
+  "name": "model-view-controller",
+  "version": "1.0.0",
+  "description": "# Homework Assignment - 14 Model-View-Controller (MVC): Tech Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carissamero/Model-View-Controller.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carissamero/Model-View-Controller/issues"
+  },
+  "homepage": "https://github.com/carissamero/Model-View-Controller#readme",
+  "devDependencies": {
+    "flag": "^5.0.1"
+  }
+}
