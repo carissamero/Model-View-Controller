@@ -19,5 +19,9 @@
   "homepage": "https://github.com/carissamero/Model-View-Controller#readme",
   "devDependencies": {
     "flag": "^5.0.1"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-session-sequelize": "^7.1.4"
   }
 }
