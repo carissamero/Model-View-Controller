@@ -47,4 +47,4 @@ This product is under the MIT License.
 ## Links
 
 - [GitHub repository](https://github.com/carissamero/Model-View-Controller.git)
-- [Deployed application on Heroku](https://polar-badlands-86538.herokuapp.com/)
+- [Deployed application on Heroku]()
