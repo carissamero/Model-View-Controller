@@ -53,8 +53,8 @@ This product is under the MIT License.
 
 The images below show the application.
 
-![Screenshot of tech blog homepage.](./public/images/tech-blog-screenshot-01.png)
+![Screenshot of tech blog homepage.]()
 
-![Screenshot of tech blog post if signed in as author of post to update or delete.](./public/images/tech-blog-screenshot-02.png)
+![Screenshot of tech blog post if signed in as author of post to update or delete.]()
 
-![Screenshot of tech blog post if not author of post to comment.](./public/images/tech-blog-screenshot-03.png)
+![Screenshot of tech blog post if not author of post to comment.]()
